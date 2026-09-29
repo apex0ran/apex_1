@@ -23,7 +23,7 @@ No extra Packages Required to run the program.
 ## Folder structure
 
 ```text
-student_expense_tracker/
+apex_1/
 |-- main.py
 |-- README.md
 |-- statement.md
@@ -41,7 +41,7 @@ student_expense_tracker/
 ## How to run the project
 
 1. Install Python
-2. Open terminal in the `student_expense_tracker` folder.
+2. Open terminal in the `apex_1` folder.
 3. Run this command:
 
    
